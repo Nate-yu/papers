@@ -1,2 +1,2 @@
 # papers
-the papers I need
+The papers I need and my notes.
